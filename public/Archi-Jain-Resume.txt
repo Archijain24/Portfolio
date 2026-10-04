@@ -1,0 +1,36 @@
+ARCHI JAIN
+AI ENGINEER • SOFTWARE ENGINEER
+Open to AI / ML / GenAI / Software Engineering opportunities
+
+SUMMARY
+AI development and software engineering experience, including experience at Capgemini. Interested in building practical products and intelligent software systems.
+
+EXPERIENCE
+Capgemini
+Role: [Add exact role]
+Dates: [Add dates]
+Responsibilities: [Add responsibilities]
+
+PROJECTS
+EXCELLA — AI Excel Automation Tool
+React.js, Tailwind CSS, Node.js, Groq AI API
+AI-powered productivity product for interacting with Excel data, retrieving information by criteria, generating filtered files, and previewing transformations in real time.
+
+PARKING MANAGEMENT SYSTEM
+Java, Spring Boot, Microservices, REST APIs, MySQL
+Production-style backend system with modular microservices, REST APIs, database persistence, and service-to-service communication.
+
+TRENDY MOVIES APP
+HTML, CSS, JavaScript, API
+Real-time movie discovery application.
+
+EDUCATION
+B.Tech Computer Science & Engineering
+Lakshmi Narain College of Technology | 2022–2026
+CGPA: 8.12
+
+ENGINEERING STACK
+Java, C++, JavaScript, React, Tailwind, Node.js, Express.js, REST APIs, Spring, Spring Boot, MySQL, Git, GitHub
+
+ACHIEVEMENTS
+Idea-Hackathon participation
